@@ -10,9 +10,10 @@ see compile.bat
 in commandline
 `sandbox target`
 
-##LICENSE
-###sandbox.cpp and under mod directory
+## LICENSE
+
+### sandbox.cpp and under mod directory
 LGPL v3
 
-###others
+### others
 NO LICENSE
